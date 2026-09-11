@@ -1,0 +1,366 @@
+{
+  "updatedAt": "2026-09-11T11:14:48Z",
+  "total": 20,
+  "data": [
+    {
+      "code": "C8842",
+      "price": 930,
+      "old_price": null,
+      "availability": false,
+      "stock": 0,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 0
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "С0288",
+      "price": 590,
+      "old_price": null,
+      "availability": true,
+      "stock": 6,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 6
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "С0634",
+      "price": 975,
+      "old_price": 1050,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "11805",
+      "price": 815,
+      "old_price": null,
+      "availability": true,
+      "stock": 13,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 13
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "С0632",
+      "price": 720,
+      "old_price": null,
+      "availability": false,
+      "stock": 0,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 0
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "С0447",
+      "price": 756,
+      "old_price": null,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "С0448",
+      "price": 850,
+      "old_price": null,
+      "availability": false,
+      "stock": 0,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 0
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "С0449",
+      "price": 2550,
+      "old_price": null,
+      "availability": false,
+      "stock": 0,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 0
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "С0473",
+      "price": 2200,
+      "old_price": null,
+      "availability": true,
+      "stock": 2,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 2
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10087",
+      "price": 3620,
+      "old_price": null,
+      "availability": true,
+      "stock": 8,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 8
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10011",
+      "price": 2250,
+      "old_price": null,
+      "availability": true,
+      "stock": 3,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10021",
+      "price": 890,
+      "old_price": null,
+      "availability": true,
+      "stock": 36,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 36
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10041",
+      "price": 2200,
+      "old_price": null,
+      "availability": true,
+      "stock": 4,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 4
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13051",
+      "price": 1485,
+      "old_price": 1650,
+      "availability": true,
+      "stock": 5,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 5
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13052",
+      "price": 765,
+      "old_price": 850,
+      "availability": false,
+      "stock": 0,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 0
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13054",
+      "price": 1015,
+      "old_price": null,
+      "availability": true,
+      "stock": 18,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 18
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "8611",
+      "price": 1480,
+      "old_price": 1745,
+      "availability": true,
+      "stock": 5,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 5
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10130",
+      "price": 5500,
+      "old_price": 5697,
+      "availability": true,
+      "stock": 7,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 7
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10131",
+      "price": 2230,
+      "old_price": 2380,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "18001S",
+      "price": 2285,
+      "old_price": null,
+      "availability": true,
+      "stock": 17,
+      "warehouses": [
+        {
+          "id": "BLOKKY-MAIN",
+          "stock": 17
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    }
+  ]
+}
