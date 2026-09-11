@@ -25,7 +25,7 @@ jobs:
           LIMIT: "20"
           MAX_PAY_IN_PARTS: "6"
           DAYS_TO_DISPATCH: "2"
-          WAREHOUSE_ID: "BLOKKY-MAIN"
+          WAREHOUSE_ID: "1"
 
       - run: |
           git config user.name "github-actions[bot]"
