@@ -29,13 +29,25 @@ with urllib.request.urlopen(request, timeout=30) as response:
 root = ET.fromstring(xml_data)
 offers = root.findall(".//offer")
 
-if LIMIT > 0:
-    offers = offers[:LIMIT]
-
-items = []
+filtered_offers = []
 
 for offer in offers:
     stock = int(float((offer.findtext("stock_quantity") or "0").replace(",", ".")))
+    available = offer.attrib.get("available", "false").lower() == "true"
+
+    if not available or stock <= 0:
+        continue
+
+    filtered_offers.append(offer)
+
+if LIMIT > 0:
+    filtered_offers = filtered_offers[:LIMIT]
+
+items = []
+
+for offer in filtered_offers:
+    stock = int(float((offer.findtext("stock_quantity") or "0").replace(",", ".")))
+
     items.append({
         "code": offer.attrib["id"],
         "price": money(offer.findtext("price")),
