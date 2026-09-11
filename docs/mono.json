@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:14:48Z",
+  "updatedAt": "2026-09-11T11:41:48Z",
   "total": 20,
   "data": [
     {
@@ -10,7 +10,7 @@
       "stock": 0,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 0
         }
       ],
@@ -28,7 +28,7 @@
       "stock": 6,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 6
         }
       ],
@@ -46,7 +46,7 @@
       "stock": 1,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 1
         }
       ],
@@ -64,7 +64,7 @@
       "stock": 13,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 13
         }
       ],
@@ -82,7 +82,7 @@
       "stock": 0,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 0
         }
       ],
@@ -100,7 +100,7 @@
       "stock": 1,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 1
         }
       ],
@@ -118,7 +118,7 @@
       "stock": 0,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 0
         }
       ],
@@ -136,7 +136,7 @@
       "stock": 0,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 0
         }
       ],
@@ -154,7 +154,7 @@
       "stock": 2,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 2
         }
       ],
@@ -169,11 +169,11 @@
       "price": 3620,
       "old_price": null,
       "availability": true,
-      "stock": 8,
+      "stock": 7,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
-          "stock": 8
+          "id": "1",
+          "stock": 7
         }
       ],
       "warranty_type": "no",
@@ -190,7 +190,7 @@
       "stock": 3,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 3
         }
       ],
@@ -208,7 +208,7 @@
       "stock": 36,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 36
         }
       ],
@@ -226,7 +226,7 @@
       "stock": 4,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 4
         }
       ],
@@ -244,7 +244,7 @@
       "stock": 5,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 5
         }
       ],
@@ -262,7 +262,7 @@
       "stock": 0,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 0
         }
       ],
@@ -280,7 +280,7 @@
       "stock": 18,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 18
         }
       ],
@@ -298,7 +298,7 @@
       "stock": 5,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 5
         }
       ],
@@ -316,7 +316,7 @@
       "stock": 7,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 7
         }
       ],
@@ -334,7 +334,7 @@
       "stock": 1,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 1
         }
       ],
@@ -352,7 +352,7 @@
       "stock": 17,
       "warehouses": [
         {
-          "id": "BLOKKY-MAIN",
+          "id": "1",
           "stock": 17
         }
       ],
