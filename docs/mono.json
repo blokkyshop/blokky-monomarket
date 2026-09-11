@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-11T12:04:26Z",
-  "total": 20,
+  "updatedAt": "2026-09-11T12:24:02Z",
+  "total": 105,
   "data": [
     {
       "code": "С0288",
@@ -354,6 +354,1536 @@
         {
           "id": "1",
           "stock": 93
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "C51078W",
+      "price": 950,
+      "old_price": null,
+      "availability": true,
+      "stock": 99,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 99
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "C51304W",
+      "price": 1370,
+      "old_price": null,
+      "availability": true,
+      "stock": 45,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 45
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "C51308W",
+      "price": 1370,
+      "old_price": null,
+      "availability": true,
+      "stock": 22,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 22
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "C65021W",
+      "price": 675,
+      "old_price": 750,
+      "availability": true,
+      "stock": 23,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 23
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "C65003W",
+      "price": 675,
+      "old_price": 750,
+      "availability": true,
+      "stock": 46,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 46
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "C0446",
+      "price": 650,
+      "old_price": null,
+      "availability": true,
+      "stock": 14,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 14
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "1025",
+      "price": 925,
+      "old_price": null,
+      "availability": true,
+      "stock": 19,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 19
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "1050",
+      "price": 880,
+      "old_price": null,
+      "availability": true,
+      "stock": 18,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 18
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "662046",
+      "price": 450,
+      "old_price": null,
+      "availability": true,
+      "stock": 15,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 15
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10202",
+      "price": 2890,
+      "old_price": null,
+      "availability": true,
+      "stock": 21,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 21
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10203",
+      "price": 2590,
+      "old_price": null,
+      "availability": true,
+      "stock": 19,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 19
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10204",
+      "price": 1760,
+      "old_price": null,
+      "availability": true,
+      "stock": 22,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 22
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10206",
+      "price": 1595,
+      "old_price": 1695,
+      "availability": true,
+      "stock": 42,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 42
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10207",
+      "price": 1760,
+      "old_price": null,
+      "availability": true,
+      "stock": 21,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 21
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "662045",
+      "price": 450,
+      "old_price": null,
+      "availability": true,
+      "stock": 11,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 11
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13057",
+      "price": 1295,
+      "old_price": 1467,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "5210",
+      "price": 2075,
+      "old_price": null,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "5214",
+      "price": 2100,
+      "old_price": null,
+      "availability": true,
+      "stock": 9,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 9
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "5223",
+      "price": 1950,
+      "old_price": null,
+      "availability": true,
+      "stock": 10,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 10
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "5249",
+      "price": 2270,
+      "old_price": null,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "5121",
+      "price": 2250,
+      "old_price": null,
+      "availability": true,
+      "stock": 4,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 4
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "5235",
+      "price": 2225,
+      "old_price": null,
+      "availability": true,
+      "stock": 3,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "20014",
+      "price": 2325,
+      "old_price": null,
+      "availability": true,
+      "stock": 2,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 2
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13085",
+      "price": 1575,
+      "old_price": null,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "20020",
+      "price": 2775,
+      "old_price": null,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "20033",
+      "price": 2950,
+      "old_price": null,
+      "availability": true,
+      "stock": 2,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 2
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "20036",
+      "price": 3150,
+      "old_price": null,
+      "availability": true,
+      "stock": 8,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 8
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "20037",
+      "price": 2795,
+      "old_price": null,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13069",
+      "price": 940,
+      "old_price": null,
+      "availability": true,
+      "stock": 8,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 8
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10195",
+      "price": 1699,
+      "old_price": null,
+      "availability": true,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 20
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10211",
+      "price": 2250,
+      "old_price": null,
+      "availability": true,
+      "stock": 14,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 14
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10216",
+      "price": 2680,
+      "old_price": null,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "20016",
+      "price": 2970,
+      "old_price": null,
+      "availability": true,
+      "stock": 11,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 11
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13153",
+      "price": 2025,
+      "old_price": null,
+      "availability": true,
+      "stock": 6,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 6
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13092",
+      "price": 1490,
+      "old_price": null,
+      "availability": true,
+      "stock": 6,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 6
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10227",
+      "price": 1760,
+      "old_price": null,
+      "availability": true,
+      "stock": 37,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 37
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10188",
+      "price": 2375,
+      "old_price": null,
+      "availability": true,
+      "stock": 12,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 12
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10210",
+      "price": 2850,
+      "old_price": null,
+      "availability": true,
+      "stock": 2,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 2
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10156",
+      "price": 2875,
+      "old_price": null,
+      "availability": true,
+      "stock": 5,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 5
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "24060",
+      "price": 880,
+      "old_price": null,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "24068",
+      "price": 645,
+      "old_price": null,
+      "availability": true,
+      "stock": 5,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 5
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "24050",
+      "price": 585,
+      "old_price": null,
+      "availability": true,
+      "stock": 3,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "24052",
+      "price": 585,
+      "old_price": null,
+      "availability": true,
+      "stock": 2,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 2
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13097",
+      "price": 1790,
+      "old_price": null,
+      "availability": true,
+      "stock": 9,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 9
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "20034",
+      "price": 2675,
+      "old_price": null,
+      "availability": true,
+      "stock": 7,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 7
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "20035",
+      "price": 2725,
+      "old_price": null,
+      "availability": true,
+      "stock": 5,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 5
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "20024",
+      "price": 2490,
+      "old_price": null,
+      "availability": true,
+      "stock": 16,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 16
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "10235",
+      "price": 1985,
+      "old_price": null,
+      "availability": true,
+      "stock": 23,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 23
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "941005",
+      "price": 395,
+      "old_price": null,
+      "availability": true,
+      "stock": 13,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 13
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "941006",
+      "price": 395,
+      "old_price": null,
+      "availability": true,
+      "stock": 15,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 15
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "941007",
+      "price": 395,
+      "old_price": null,
+      "availability": true,
+      "stock": 12,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 12
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "941008",
+      "price": 395,
+      "old_price": null,
+      "availability": true,
+      "stock": 13,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 13
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "9410241",
+      "price": 395,
+      "old_price": null,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "9410244",
+      "price": 395,
+      "old_price": null,
+      "availability": true,
+      "stock": 12,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 12
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13100",
+      "price": 2000,
+      "old_price": null,
+      "availability": true,
+      "stock": 14,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 14
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13101",
+      "price": 1744,
+      "old_price": null,
+      "availability": true,
+      "stock": 14,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 14
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13095",
+      "price": 1916,
+      "old_price": null,
+      "availability": true,
+      "stock": 15,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 15
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13068",
+      "price": 755,
+      "old_price": null,
+      "availability": true,
+      "stock": 10,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 10
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "4212",
+      "price": 1340,
+      "old_price": null,
+      "availability": true,
+      "stock": 8,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 8
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "4214",
+      "price": 1375,
+      "old_price": null,
+      "availability": true,
+      "stock": 7,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 7
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "5216",
+      "price": 2185,
+      "old_price": null,
+      "availability": true,
+      "stock": 3,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "5217",
+      "price": 2200,
+      "old_price": null,
+      "availability": true,
+      "stock": 4,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 4
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "5243",
+      "price": 2250,
+      "old_price": null,
+      "availability": true,
+      "stock": 5,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 5
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "5251",
+      "price": 2670,
+      "old_price": null,
+      "availability": true,
+      "stock": 8,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 8
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "4004",
+      "price": 780,
+      "old_price": null,
+      "availability": true,
+      "stock": 4,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 4
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "4005",
+      "price": 750,
+      "old_price": null,
+      "availability": true,
+      "stock": 4,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 4
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "4007",
+      "price": 750,
+      "old_price": null,
+      "availability": true,
+      "stock": 3,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "3511",
+      "price": 650,
+      "old_price": null,
+      "availability": true,
+      "stock": 10,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 10
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "3513",
+      "price": 650,
+      "old_price": null,
+      "availability": true,
+      "stock": 11,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 11
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "4513",
+      "price": 670,
+      "old_price": null,
+      "availability": true,
+      "stock": 5,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 5
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "4516",
+      "price": 795,
+      "old_price": null,
+      "availability": true,
+      "stock": 6,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 6
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "3518",
+      "price": 590,
+      "old_price": null,
+      "availability": true,
+      "stock": 9,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 9
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "3523",
+      "price": 590,
+      "old_price": null,
+      "availability": true,
+      "stock": 10,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 10
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "96165",
+      "price": 1499,
+      "old_price": 1620,
+      "availability": true,
+      "stock": 4,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 4
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "96178",
+      "price": 1499,
+      "old_price": 1620,
+      "availability": true,
+      "stock": 1,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "96218",
+      "price": 1950,
+      "old_price": 2150,
+      "availability": true,
+      "stock": 19,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 19
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "96217",
+      "price": 1750,
+      "old_price": 1975,
+      "availability": true,
+      "stock": 20,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 20
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "96202",
+      "price": 1375,
+      "old_price": null,
+      "availability": true,
+      "stock": 21,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 21
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "96207",
+      "price": 1475,
+      "old_price": null,
+      "availability": true,
+      "stock": 21,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 21
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "96212",
+      "price": 1475,
+      "old_price": null,
+      "availability": true,
+      "stock": 18,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 18
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "96209",
+      "price": 1475,
+      "old_price": null,
+      "availability": true,
+      "stock": 22,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 22
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "96216",
+      "price": 1695,
+      "old_price": null,
+      "availability": true,
+      "stock": 10,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 10
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "83003",
+      "price": 1830,
+      "old_price": null,
+      "availability": true,
+      "stock": 54,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 54
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "66023",
+      "price": 2275,
+      "old_price": null,
+      "availability": true,
+      "stock": 58,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 58
+        }
+      ],
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 2,
+      "manufacture": null
+    },
+    {
+      "code": "13104",
+      "price": 1095,
+      "old_price": 1185,
+      "availability": true,
+      "stock": 58,
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 58
         }
       ],
       "warranty_type": "no",
