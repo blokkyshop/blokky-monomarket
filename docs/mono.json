@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-17T01:46:38Z",
-  "total": 103,
+  "updatedAt": "2026-09-17T02:20:28Z",
+  "total": 102,
   "data": [
     {
       "code": "С0288",
@@ -637,11 +637,11 @@
       "price": 2100,
       "old_price": null,
       "availability": true,
-      "stock": 9,
+      "stock": 8,
       "warehouses": [
         {
           "id": "1",
-          "stock": 9
+          "stock": 8
         }
       ],
       "warranty_type": "no",
@@ -876,24 +876,6 @@
         {
           "id": "1",
           "stock": 14
-        }
-      ],
-      "warranty_type": "no",
-      "warranty_period": 0,
-      "max_pay_in_parts": 6,
-      "days_to_dispatch": 2,
-      "manufacture": null
-    },
-    {
-      "code": "10216",
-      "price": 2680,
-      "old_price": null,
-      "availability": true,
-      "stock": 1,
-      "warehouses": [
-        {
-          "id": "1",
-          "stock": 1
         }
       ],
       "warranty_type": "no",
@@ -1357,11 +1339,11 @@
       "price": 1340,
       "old_price": null,
       "availability": true,
-      "stock": 8,
+      "stock": 7,
       "warehouses": [
         {
           "id": "1",
-          "stock": 8
+          "stock": 7
         }
       ],
       "warranty_type": "no",
@@ -1465,11 +1447,11 @@
       "price": 780,
       "old_price": null,
       "availability": true,
-      "stock": 4,
+      "stock": 3,
       "warehouses": [
         {
           "id": "1",
-          "stock": 4
+          "stock": 3
         }
       ],
       "warranty_type": "no",
@@ -1501,11 +1483,11 @@
       "price": 750,
       "old_price": null,
       "availability": true,
-      "stock": 3,
+      "stock": 2,
       "warehouses": [
         {
           "id": "1",
-          "stock": 3
+          "stock": 2
         }
       ],
       "warranty_type": "no",
@@ -1735,11 +1717,11 @@
       "price": 1475,
       "old_price": null,
       "availability": true,
-      "stock": 21,
+      "stock": 20,
       "warehouses": [
         {
           "id": "1",
-          "stock": 21
+          "stock": 20
         }
       ],
       "warranty_type": "no",
@@ -1753,11 +1735,11 @@
       "price": 1475,
       "old_price": null,
       "availability": true,
-      "stock": 9,
+      "stock": 7,
       "warehouses": [
         {
           "id": "1",
-          "stock": 9
+          "stock": 7
         }
       ],
       "warranty_type": "no",
@@ -1843,11 +1825,11 @@
       "price": 1095,
       "old_price": 1185,
       "availability": true,
-      "stock": 57,
+      "stock": 56,
       "warehouses": [
         {
           "id": "1",
-          "stock": 57
+          "stock": 56
         }
       ],
       "warranty_type": "no",
