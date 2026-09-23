@@ -23,7 +23,7 @@ jobs:
           SOURCE_FEED_URL: ${{ secrets.SOURCE_FEED_URL }}
           OUTPUT_PATH: docs/mono.json
           LIMIT: "0"
-          MAX_PAY_IN_PARTS: "6"
+          MAX_PAY_IN_PARTS: "7"
           DAYS_TO_DISPATCH: "2"
           WAREHOUSE_ID: "1"
 
