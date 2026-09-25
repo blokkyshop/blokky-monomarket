@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-25T01:44:26Z",
-  "total": 111,
+  "updatedAt": "2026-09-25T02:19:09Z",
+  "total": 110,
   "data": [
     {
       "code": "С0288",
@@ -979,11 +979,11 @@
       "price": 1760,
       "old_price": null,
       "availability": true,
-      "stock": 23,
+      "stock": 22,
       "warehouses": [
         {
           "id": "1",
-          "stock": 23
+          "stock": 22
         }
       ],
       "warranty_type": "no",
@@ -1087,11 +1087,11 @@
       "price": 585,
       "old_price": null,
       "availability": true,
-      "stock": 3,
+      "stock": 2,
       "warehouses": [
         {
           "id": "1",
-          "stock": 3
+          "stock": 2
         }
       ],
       "warranty_type": "no",
@@ -1499,24 +1499,6 @@
     {
       "code": "4004",
       "price": 780,
-      "old_price": null,
-      "availability": true,
-      "stock": 2,
-      "warehouses": [
-        {
-          "id": "1",
-          "stock": 2
-        }
-      ],
-      "warranty_type": "no",
-      "warranty_period": 0,
-      "max_pay_in_parts": 7,
-      "days_to_dispatch": 2,
-      "manufacture": null
-    },
-    {
-      "code": "4005",
-      "price": 750,
       "old_price": null,
       "availability": true,
       "stock": 1,
