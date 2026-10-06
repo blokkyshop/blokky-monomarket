@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-10-06T01:47:22Z",
-  "total": 113,
+  "updatedAt": "2026-10-06T02:22:08Z",
+  "total": 112,
   "data": [
-    {
-      "code": "С0288",
-      "price": 590,
-      "old_price": null,
-      "availability": true,
-      "stock": 1,
-      "warehouses": [
-        {
-          "id": "1",
-          "stock": 1
-        }
-      ],
-      "warranty_type": "no",
-      "warranty_period": 0,
-      "max_pay_in_parts": 7,
-      "days_to_dispatch": 2,
-      "manufacture": null
-    },
     {
       "code": "С0634",
       "price": 975,
@@ -547,11 +529,11 @@
       "price": 2890,
       "old_price": null,
       "availability": true,
-      "stock": 15,
+      "stock": 14,
       "warehouses": [
         {
           "id": "1",
-          "stock": 15
+          "stock": 14
         }
       ],
       "warranty_type": "no",
@@ -1645,11 +1627,11 @@
       "price": 1499,
       "old_price": 1620,
       "availability": true,
-      "stock": 3,
+      "stock": 2,
       "warehouses": [
         {
           "id": "1",
-          "stock": 3
+          "stock": 2
         }
       ],
       "warranty_type": "no",
@@ -1861,11 +1843,11 @@
       "price": 2275,
       "old_price": null,
       "availability": true,
-      "stock": 35,
+      "stock": 34,
       "warehouses": [
         {
           "id": "1",
-          "stock": 35
+          "stock": 34
         }
       ],
       "warranty_type": "no",
@@ -1933,11 +1915,11 @@
       "price": 1495,
       "old_price": null,
       "availability": true,
-      "stock": 12,
+      "stock": 11,
       "warehouses": [
         {
           "id": "1",
-          "stock": 12
+          "stock": 11
         }
       ],
       "warranty_type": "no",
