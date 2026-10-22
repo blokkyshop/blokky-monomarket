@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T00:37:05Z",
+  "updatedAt": "2026-10-22T05:20:31Z",
   "total": 111,
   "data": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "code": "13052",
-      "price": 833,
-      "old_price": 925,
+      "price": 925,
+      "old_price": null,
       "availability": true,
       "stock": 20,
       "warehouses": [
