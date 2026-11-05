@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T02:43:37Z",
-  "total": 104,
+  "updatedAt": "2026-11-05T10:44:03Z",
+  "total": 102,
   "data": [
     {
       "code": "С0634",
@@ -151,11 +151,11 @@
       "price": 5785,
       "old_price": null,
       "availability": true,
-      "stock": 15,
+      "stock": 14,
       "warehouses": [
         {
           "id": "1",
-          "stock": 15
+          "stock": 14
         }
       ],
       "warranty_type": "no",
@@ -511,11 +511,11 @@
       "price": 2590,
       "old_price": null,
       "availability": true,
-      "stock": 14,
+      "stock": 13,
       "warehouses": [
         {
           "id": "1",
-          "stock": 14
+          "stock": 13
         }
       ],
       "warranty_type": "no",
@@ -687,24 +687,6 @@
       "manufacture": null
     },
     {
-      "code": "5235",
-      "price": 2225,
-      "old_price": null,
-      "availability": true,
-      "stock": 3,
-      "warehouses": [
-        {
-          "id": "1",
-          "stock": 3
-        }
-      ],
-      "warranty_type": "no",
-      "warranty_period": 0,
-      "max_pay_in_parts": 7,
-      "days_to_dispatch": 2,
-      "manufacture": null
-    },
-    {
       "code": "13086",
       "price": 1095,
       "old_price": null,
@@ -781,11 +763,11 @@
       "price": 1470,
       "old_price": null,
       "availability": true,
-      "stock": 28,
+      "stock": 27,
       "warehouses": [
         {
           "id": "1",
-          "stock": 28
+          "stock": 27
         }
       ],
       "warranty_type": "no",
@@ -1141,11 +1123,11 @@
       "price": 395,
       "old_price": null,
       "availability": true,
-      "stock": 3,
+      "stock": 2,
       "warehouses": [
         {
           "id": "1",
-          "stock": 3
+          "stock": 2
         }
       ],
       "warranty_type": "no",
@@ -1321,11 +1303,11 @@
       "price": 2185,
       "old_price": null,
       "availability": true,
-      "stock": 2,
+      "stock": 1,
       "warehouses": [
         {
           "id": "1",
-          "stock": 2
+          "stock": 1
         }
       ],
       "warranty_type": "no",
@@ -1758,24 +1740,6 @@
         {
           "id": "1",
           "stock": 16
-        }
-      ],
-      "warranty_type": "no",
-      "warranty_period": 0,
-      "max_pay_in_parts": 7,
-      "days_to_dispatch": 2,
-      "manufacture": null
-    },
-    {
-      "code": "7042",
-      "price": 1495,
-      "old_price": null,
-      "availability": true,
-      "stock": 1,
-      "warehouses": [
-        {
-          "id": "1",
-          "stock": 1
         }
       ],
       "warranty_type": "no",
