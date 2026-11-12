@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:40:38Z",
+  "updatedAt": "2026-11-12T07:00:02Z",
   "total": 99,
   "data": [
     {
@@ -691,11 +691,11 @@
       "price": 1095,
       "old_price": null,
       "availability": true,
-      "stock": 30,
+      "stock": 29,
       "warehouses": [
         {
           "id": "1",
-          "stock": 30
+          "stock": 29
         }
       ],
       "warranty_type": "no",
@@ -1444,7 +1444,7 @@
     },
     {
       "code": "96202",
-      "price": 1375,
+      "price": 1425,
       "old_price": null,
       "availability": true,
       "stock": 26,
@@ -1483,11 +1483,11 @@
       "price": 1475,
       "old_price": null,
       "availability": true,
-      "stock": 25,
+      "stock": 24,
       "warehouses": [
         {
           "id": "1",
-          "stock": 25
+          "stock": 24
         }
       ],
       "warranty_type": "no",
@@ -1627,11 +1627,11 @@
       "price": 1095,
       "old_price": 1185,
       "availability": true,
-      "stock": 38,
+      "stock": 37,
       "warehouses": [
         {
           "id": "1",
-          "stock": 38
+          "stock": 37
         }
       ],
       "warranty_type": "no",
