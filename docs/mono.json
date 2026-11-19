@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T01:26:43Z",
+  "updatedAt": "2026-11-19T09:26:00Z",
   "total": 102,
   "data": [
     {
@@ -22,7 +22,7 @@
     },
     {
       "code": "10087",
-      "price": 3620,
+      "price": 3780,
       "old_price": null,
       "availability": true,
       "stock": 23,
@@ -673,11 +673,11 @@
       "price": 1095,
       "old_price": null,
       "availability": true,
-      "stock": 25,
+      "stock": 24,
       "warehouses": [
         {
           "id": "1",
-          "stock": 25
+          "stock": 24
         }
       ],
       "warranty_type": "no",
@@ -742,7 +742,7 @@
     },
     {
       "code": "20037",
-      "price": 2795,
+      "price": 3070,
       "old_price": null,
       "availability": true,
       "stock": 12,
@@ -781,11 +781,11 @@
       "price": 275,
       "old_price": null,
       "availability": true,
-      "stock": 39,
+      "stock": 38,
       "warehouses": [
         {
           "id": "1",
-          "stock": 39
+          "stock": 38
         }
       ],
       "warranty_type": "no",
@@ -922,7 +922,7 @@
     },
     {
       "code": "10213",
-      "price": 1875,
+      "price": 1985,
       "old_price": null,
       "availability": true,
       "stock": 48,
@@ -940,7 +940,7 @@
     },
     {
       "code": "10227",
-      "price": 1760,
+      "price": 1895,
       "old_price": null,
       "availability": true,
       "stock": 56,
@@ -976,7 +976,7 @@
     },
     {
       "code": "10210",
-      "price": 2850,
+      "price": 2960,
       "old_price": null,
       "availability": true,
       "stock": 12,
