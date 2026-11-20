@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T00:54:00Z",
+  "updatedAt": "2026-11-20T08:24:55Z",
   "total": 102,
   "data": [
     {
@@ -61,11 +61,11 @@
       "price": 890,
       "old_price": null,
       "availability": true,
-      "stock": 24,
+      "stock": 23,
       "warehouses": [
         {
           "id": "1",
-          "stock": 24
+          "stock": 23
         }
       ],
       "warranty_type": "no",
@@ -457,11 +457,11 @@
       "price": 1495,
       "old_price": null,
       "availability": true,
-      "stock": 116,
+      "stock": 115,
       "warehouses": [
         {
           "id": "1",
-          "stock": 116
+          "stock": 115
         }
       ],
       "warranty_type": "no",
@@ -673,11 +673,11 @@
       "price": 1095,
       "old_price": null,
       "availability": true,
-      "stock": 24,
+      "stock": 23,
       "warehouses": [
         {
           "id": "1",
-          "stock": 24
+          "stock": 23
         }
       ],
       "warranty_type": "no",
@@ -1231,11 +1231,11 @@
       "price": 755,
       "old_price": null,
       "availability": true,
-      "stock": 9,
+      "stock": 8,
       "warehouses": [
         {
           "id": "1",
-          "stock": 9
+          "stock": 8
         }
       ],
       "warranty_type": "no",
@@ -1447,11 +1447,11 @@
       "price": 1850,
       "old_price": null,
       "availability": true,
-      "stock": 33,
+      "stock": 13,
       "warehouses": [
         {
           "id": "1",
-          "stock": 33
+          "stock": 13
         }
       ],
       "warranty_type": "no",
@@ -1501,11 +1501,11 @@
       "price": 1425,
       "old_price": null,
       "availability": true,
-      "stock": 26,
+      "stock": 25,
       "warehouses": [
         {
           "id": "1",
-          "stock": 26
+          "stock": 25
         }
       ],
       "warranty_type": "no",
@@ -1681,11 +1681,11 @@
       "price": 1095,
       "old_price": 1185,
       "availability": true,
-      "stock": 36,
+      "stock": 34,
       "warehouses": [
         {
           "id": "1",
-          "stock": 36
+          "stock": 34
         }
       ],
       "warranty_type": "no",
